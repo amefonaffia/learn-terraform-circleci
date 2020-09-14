@@ -1,5 +1,4 @@
-variable "region" {
-  default = "us-west-1"}
+variable "region" {}
 variable "user" {}
 variable "label" {}
 variable "app" {}
